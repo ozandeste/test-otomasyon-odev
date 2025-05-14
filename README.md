@@ -22,4 +22,6 @@ test-otomasyon-projem/</br>
 │ └── test_login_invalid.py</br>
 │</br>
 ├── test-sonucu.png</br>
-└── README.md
+└── README.md</br></br>
+
+<a href="https://github.com/ozandeste/test-otomasyon-odev/blob/main/test-sonucu.png">Ekran Görüntüsü:
